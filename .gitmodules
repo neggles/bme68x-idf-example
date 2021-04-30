@@ -1,0 +1,3 @@
+[submodule "components/bme68x-idf"]
+	path = components/bme68x-idf
+	url = git@github.com:neg2led/bme68x-idf.git
